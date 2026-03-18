@@ -11,13 +11,6 @@ I have been deeply involved in programming since 2021 (5+ years).
 For the past 2 years, I have been working as a **Full-Stack Developer** using **React** and **.NET**.  
 I am highly motivated by continuous self-improvement and enjoy learning modern approaches and best practices in software development.
 
-## 🚀 My Projects
-
-- 🗂️ <a href="https://github.com/etetudyyd/DirectoryService"><b>Directory Service</b></a> — directory management application  
-- 🏃 <a href="https://github.com/etetudyyd/Citius_Altius_Sportius"><b>Citius, Altius, Fortius</b></a> — sport web-store project  
-- 🏐 <a href="https://github.com/etetudyyd/WVL"><b>WVL</b></a> — volleyball tournaments platform  
-- 🖥️ <a href="https://github.com/etetudyyd/Geometric_Modeling_and_Graphic_Design"><b>Geometric Modeling and Graphic Design</b></a> — WPF graphics & transformations
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
